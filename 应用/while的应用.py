@@ -10,7 +10,6 @@ while n <= 100:
     result += n
     n += 1
 
-
 print(result)
 
 # 应用二：计算1-100偶数累加和
